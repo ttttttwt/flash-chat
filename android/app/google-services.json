@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:699704484430:android:b33c4faf66b4882fc0d91f",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.flash_chat"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA7nxCq4TvbgXJIp1TWPLqLw6NgVYTlh4k"
+          "current_key": ""
         }
       ],
       "services": {

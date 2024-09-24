@@ -49,20 +49,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA7nxCq4TvbgXJIp1TWPLqLw6NgVYTlh4k',
-    appId: '1:699704484430:android:b33c4faf66b4882fc0d91f',
-    messagingSenderId: '699704484430',
-    projectId: 'flash-chat-1fff5',
-    storageBucket: 'flash-chat-1fff5.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC5aWNM6HzGPp2_PuW_YHEZi-QD55Ar920',
-    appId: '1:699704484430:ios:b01ccff8b79294a8c0d91f',
-    messagingSenderId: '699704484430',
-    projectId: 'flash-chat-1fff5',
-    storageBucket: 'flash-chat-1fff5.appspot.com',
-    iosBundleId: 'com.example.flashChat',
-  );
+  
 }
